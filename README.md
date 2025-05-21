@@ -1,7 +1,3 @@
-Based on the actual codebase, `run_experiments.sh`, `fine_tune.py`, plotting scripts, your environment configuration (`requirements.yml`), and the documentation in your proposal and slides, here is a complete and corrected `README.md` for your project:
-
----
-
 # Minimal Effort, Maximum Effect?
 
 ## An Evaluation of Parameter-Efficient Fine-Tuning in Varying Data Regimes
